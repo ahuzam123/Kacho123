@@ -112,7 +112,7 @@ url_mb = "https://m.facebook.com"
 
 url_ip = "https://www.httpbin.org/ip"
 
-header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 11; IN2023 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.91 Mobile Safari/537.36 Instagram 186.0.0.36.128 Android (30/11; 450dpi; 1080x2283; OnePlus; IN2023; OnePlus8Pro; qcom; en_US; 288682401);]"}
+header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"}
 
 bulan_ttl = {"01": "January", "02": "February", "03": "March", "04": "April", "05": "May", "06": "June", "07": "July", "08": "Augustus", "09": "September", "10": "October", "11": "November", "12": "December"}
 
