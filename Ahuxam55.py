@@ -268,7 +268,7 @@ class __xxx__:
 
                     "upgrade-insecure-requests":"1",
 
-                    "user-agent":"Mozilla/5.0 (Linux; Android 11; IN2023 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.91 Mobile Safari/537.36 Instagram 186.0.0.36.128 Android (30/11; 450dpi; 1080x2283; OnePlus; IN2023; OnePlus8Pro; qcom; en_US; 288682401)",
+                    "user-agent": "Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109)",
 
                     "accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
 
@@ -323,7 +323,7 @@ class __xxx__:
                     "content-type":"application/x-www-form-urlencoded",
 
                     "user-agent":""Mozilla/5.0 (Linux; Android 11; IN2023 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.91 Mobile Safari/537.36 Instagram 186.0.0.36.128 Android (30/11; 450dpi; 1080x2283; OnePlus; IN2023; OnePlus8Pro; qcom; en_US; 288682401)"
- https://user-agents.net/string/mozilla-5-0-linux-android-11-in2023-build-rp1a-201005-001-wv-applewebkit-537-36-khtml-like-gecko-version-4-0-chrome-90-0-4430-91-mobile-safari-537-36-instagram-186-0-0-36-128-android-30-11-450dpi-1080x2283-oneplus-i-adcbb51c67d643c6bd7990994f504e11fb02939a#:~:text=Mozilla/5.0%20(Linux%3B%20Android%2011%3B%20IN2023%20Build/RP1A.201005.001%3B%20wv)%20AppleWebKit/537.36%20(KHTML%2C%20like%20Gecko)%20Version/4.0%20Chrome/90.0.4430.91%20Mobile%20Safari/537.36%20Instagram%20186.0.0.36.128%20Android%20(30/11%3B%20450dpi%3B%201080x2283%3B%20OnePlus%3B%20IN2023%3B%20OnePlus8Pro%3B%20qcom%3B%20en_US%3B%20288682401)",
+ https://user-agents.net/string/mozilla-5-0-linux-android-11-in2023-build-rp1a-201005-001-wv-applewebkit-537-36-khtml-like-gecko-version-4-0-chrome-90-0-4430-91-mobile-safari-537-36-instagram-186-0-0-36-128-android-30-11-450dpi-1080x2283-oneplus-i-adcbb51c67d643c6bd7990994f504e11fb02939a)",
 
                     "accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
 
